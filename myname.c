@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 main() {
-printf("±i©ÀµØ\n");
+printf("å¼µå¿µè¯\n");
 }
 
 
